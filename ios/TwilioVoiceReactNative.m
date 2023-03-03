@@ -23,9 +23,9 @@ NSString * const kTwilioVoiceReactNativeEventKeyCancelledCallInvite = @"cancelle
 
 // Audio device
 NSString * const kTwilioVoiceAudioDeviceUid = @"uid";
-NSString * const kTwilioVoiceAudioDeviceEarpiece = @"Earpiece";
-NSString * const kTwilioVoiceAudioDeviceSpeaker = @"Speaker";
-NSString * const kTwilioVoiceAudioDeviceBluetooth = @"Bluetooth";
+NSString * const kTwilioVoiceAudioDeviceEarpiece = @"earpiece";
+NSString * const kTwilioVoiceAudioDeviceSpeaker = @"speaker";
+NSString * const kTwilioVoiceAudioDeviceBluetooth = @"bluetooth";
 
 static TVODefaultAudioDevice *sTwilioAudioDevice;
 
